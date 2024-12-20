@@ -1,0 +1,13 @@
+# Syntax Coloring Map
+# datatype  KEYWORD1
+# function  KEYWORD2
+# constant  KEYWORD3
+# other     KEYWORD4
+
+KelasRobotTime	KEYWORD1
+connectWiFi	KEYWORD2
+begin	KEYWORD2
+updateTime	KEYWORD2
+hours	KEYWORD2
+minutes	KEYWORD2
+seconds	KEYWORD2
